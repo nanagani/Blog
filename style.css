@@ -1,0 +1,38 @@
+#contacts iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: orange;
+}
+body{
+background: linear-gradient(45deg, rgba(129,207,208,1) 12%, rgba(168,175,255,1) 31%, rgba(246,239,95,1) 95%);
+}
+.book img{
+height: 400px;
+}
+.book{
+    margin-bottom: 20px;
+}
+a{
+    color:black;
+    font-size: large;
+}
